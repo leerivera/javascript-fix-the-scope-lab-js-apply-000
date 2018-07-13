@@ -11,12 +11,12 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-
+ const two = 750
 function add2(n) {
   return n + two
 
   // Feel free to move things around!
-  const two = 750
+  
 }
 
 var funkyFunction = function() {
